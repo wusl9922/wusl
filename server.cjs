@@ -13,7 +13,8 @@ function json(res,status,obj){res.writeHead(status,{'Content-Type':'application/
 const server=http.createServer(async(req,res)=>{try{
  const url=new URL(req.url,'http://localhost');
  if(url.pathname==='/health'){if(pool)await pool.query('SELECT 1');return json(res,200,{ok:true})}
- if(!allowed(req)){res.writeHead(401,{'WWW-Authenticate':'Basic realm="Watch gallery", charset="UTF-8"','Content-Type':'text/plain; charset=utf-8','Cache-Control':'no-store'});return res.end('请使用管理员账号和密码登录。');}
+ const requiresLogin=url.pathname==='/admin'||(url.pathname==='/api/catalog'&&req.method!=='GET');
+ if(requiresLogin&&!allowed(req)){res.writeHead(401,{'WWW-Authenticate':'Basic realm="Watch gallery", charset="UTF-8"','Content-Type':'text/plain; charset=utf-8','Cache-Control':'no-store'});return res.end('请使用管理员账号和密码登录。');}
 
  if(req.headers.origin&&!['http://','https://'].some(protocol=>req.headers.origin===protocol+req.headers.host))return json(res,403,{error:'Origin rejected'});
  if(url.pathname==='/api/catalog'){
