@@ -1,0 +1,161 @@
+{
+  "brands": [
+    "劳力士",
+    "百达翡丽"
+  ],
+  "products": [
+    {
+      "id": 0,
+      "brand": "劳力士",
+      "name": "蚝式恒动型 41 134300-0001",
+      "description": "银色太阳光线表盘搭配蚝式表带，外观简洁，适合日常佩戴。41毫米表径。 测试展示：介绍与图片对应PDF中的参考款式，不代表实际供货规格。",
+      "price": "¥500",
+      "url": "",
+      "images": [
+        "https://media.rolex.com/image/upload/q_auto/f_jpg/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m134300-0001"
+      ]
+    },
+    {
+      "id": 1,
+      "brand": "劳力士",
+      "name": "日志型 41 126334-0018",
+      "description": "亮黑色表盘搭配三角坑纹外圈和纪念型表带，日期窗配凸透镜，风格兼顾正式与日常。41毫米表径。 测试展示：介绍与图片对应PDF中的参考款式，不代表实际供货规格。",
+      "price": "¥800",
+      "url": "",
+      "images": [
+        "https://media.rolex.com/image/upload/q_auto/f_jpg/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126334-0018"
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "劳力士",
+      "name": "潜航者型日历 126610LN-0001",
+      "description": "黑色表盘搭配黑色陶质字圈，运动感鲜明，日期显示清晰。41毫米表径。 测试展示：介绍与图片对应PDF中的参考款式，不代表实际供货规格。",
+      "price": "¥1100",
+      "url": "",
+      "images": [
+        "https://media.rolex.com/image/upload/q_auto/f_jpg/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126610ln-0001"
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "劳力士",
+      "name": "格林尼治型 II 126710BLNR-0002",
+      "description": "蓝黑双色24小时外圈搭配纪念型表带，以旅行与双时区风格为特色。40毫米表径。 测试展示：介绍与图片对应PDF中的参考款式，不代表实际供货规格。",
+      "price": "¥1400 ",
+      "url": "",
+      "images": [
+        "https://media.rolex.com/image/upload/q_auto/f_jpg/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126710blnr-0002"
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "劳力士",
+      "name": "宇宙计型迪通拿 126500LN-0001",
+      "description": "白色表盘配黑色计时盘环与黑色测速外圈，呈现鲜明的赛车计时风格。40毫米表径。 测试展示：介绍与图片对应PDF中的参考款式，不代表实际供货规格。",
+      "price": "¥1700 ",
+      "url": "",
+      "images": [
+        "https://media.rolex.com/image/upload/q_auto/f_jpg/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m126500ln-0001"
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "劳力士",
+      "name": "探险家型 40 224270-0001",
+      "description": "黑色表盘配3、6、9数字时标，读时清晰，轮廓简洁，适合运动风格穿搭。40毫米表径。 测试展示：介绍与图片对应PDF中的参考款式，不代表实际供货规格。",
+      "price": "¥2000",
+      "url": "",
+      "images": [
+        "https://media.rolex.com/image/upload/q_auto/f_jpg/t_v7-cover-majesty-landscape/c_limit%2Cw_1920/v1/a677b2c664f6/catalogue/2026/upright-c/m224270-0001"
+      ]
+    },
+    {
+      "id": 6,
+      "brand": "百达翡丽",
+      "name": "Aquanaut 日期腕表 5167A-001",
+      "description": "圆润八角形表壳搭配复合材质表带，炭灰色浮雕表盘突出运动风格。40.8毫米表径。 测试展示：介绍与图片对应PDF中的参考款式，不代表实际供货规格。",
+      "price": "¥600",
+      "url": "",
+      "images": [
+        "https://patek-res.cloudinary.com/dfsmedia/0906caea301d42b3b8bd23bd656d1711/202472-51887"
+      ]
+    },
+    {
+      "id": 7,
+      "brand": "百达翡丽",
+      "name": "Aquanaut 飞返计时腕表 5968A-001",
+      "description": "炭灰色表盘点缀橙色计时细节，搭配复合材质表带，整体设计活力鲜明。42.2毫米表径。 测试展示：介绍与图片对应PDF中的参考款式，不代表实际供货规格。",
+      "price": "¥900",
+      "url": "",
+      "images": [
+        "https://patek-res.cloudinary.com/dfsmedia/0906caea301d42b3b8bd23bd656d1711/202154-51887"
+      ]
+    },
+    {
+      "id": 8,
+      "brand": "百达翡丽",
+      "name": "Nautilus 日期腕表 5811/1G-001",
+      "description": "圆角八边形表壳与一体式表链相呼应，蓝色渐变表盘带水平浮雕纹理。41毫米表径。 测试展示：介绍与图片对应PDF中的参考款式，不代表实际供货规格。",
+      "price": "¥1200",
+      "url": "",
+      "images": [
+        "https://patek-res.cloudinary.com/dfsmedia/0906caea301d42b3b8bd23bd656d1711/4827-51887"
+      ]
+    },
+    {
+      "id": 9,
+      "brand": "百达翡丽",
+      "name": "Nautilus 月相腕表 5712/1R-001",
+      "description": "棕色渐变表盘配非对称布局，结合月相、日期与动力储存显示的设计元素。40毫米表径。 测试展示：介绍与图片对应PDF中的参考款式，不代表实际供货规格。",
+      "price": "¥1500 ",
+      "url": "",
+      "images": [
+        "https://patek-res.cloudinary.com/dfsmedia/0906caea301d42b3b8bd23bd656d1711/4808-51887"
+      ]
+    },
+    {
+      "id": 10,
+      "brand": "百达翡丽",
+      "name": "Calatrava 巴黎钉纹腕表 6119R-001",
+      "description": "圆形表壳配巴黎钉纹表圈，银色粒纹表盘搭配小秒盘，外观简洁典雅。39毫米表径。 测试展示：介绍与图片对应PDF中的参考款式，不代表实际供货规格。",
+      "price": "¥1800 ",
+      "url": "",
+      "images": [
+        "https://patek-res.cloudinary.com/dfsmedia/0906caea301d42b3b8bd23bd656d1711/202096-51887"
+      ]
+    },
+    {
+      "id": 11,
+      "brand": "百达翡丽",
+      "name": "Calatrava 日期腕表 5226G-001",
+      "description": "炭灰色纹理表盘配阿拉伯数字时标，表壳侧面饰巴黎钉纹，呈现复古日常风格。40毫米表径。 测试展示：介绍与图片对应PDF中的参考款式，不代表实际供货规格。",
+      "price": "¥1950 ",
+      "url": "",
+      "images": [
+        "https://patek-res.cloudinary.com/dfsmedia/0906caea301d42b3b8bd23bd656d1711/202407-51887"
+      ]
+    }
+  ],
+  "texts": {
+    "logo": "时 序",
+    "navigation": "腕表目录",
+    "headerCaption": "WATCH COLLECTION",
+    "eyebrow": "THE WATCH EDIT",
+    "title": "简于形，精于选。",
+    "subtitle": "按品牌浏览腕表，查看款式、商品介绍与价格。",
+    "allBrands": "全部品牌",
+    "search": "搜索品牌或款式…",
+    "detail": "查看详情 ＋",
+    "productLink": "前往商品 ↗",
+    "missingLink": "商品链接待添加 ↗",
+    "imagePlaceholder": "待添加",
+    "imageLabel": "商品图",
+    "watchUnit": "款腕表",
+    "empty": "暂无匹配款式，请尝试其他关键词。",
+    "note": "测试页面 · 所有价格为500–2000元的模拟金额，仅用于功能测试。",
+    "footerLeft": "时序 · 腕表目录",
+    "footerMiddle": "商品展示与信息浏览",
+    "footerRight": "© 2026 WATCH COLLECTION"
+  }
+}
